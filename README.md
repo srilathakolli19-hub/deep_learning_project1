@@ -26,7 +26,7 @@ The model was trained using a **Convolutional Neural Network (CNN)** and connect
 ```
 brain-tumor-detection
 │
-├── brain_tumor_cnn.ipynb   # CNN training code
+├── DL_PROJECT.ipynb   # CNN training code
 ├── app.py                  # Flask backend
 │
 ├── templates
